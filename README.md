@@ -13,3 +13,6 @@ Assignment 4 - 8733 ответ
 Assignment 5 - 8448 ответ
 
 Assignment 6 - 3765 ответ
+<div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Avonna&style=flat-square&color=blue" alt = ""/>
+</div>
